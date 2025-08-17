@@ -1,64 +1,57 @@
-Joyntway – Ride-Sharing Product Development & Go-to-Market Strategy
+# 🚗 Joyntway – Ride Sharing Product Development  
 
-📌 Project Overview
+This project focuses on **end-to-end product development** for a ride-sharing platform, covering **market research, go-to-market strategy, product design, and prototyping**.  
 
-This project presents the end-to-end development of Joyntway, a ride-sharing platform aimed at providing affordable, sustainable, and convenient urban mobility. The work spans from market research and customer insights to prototype design, business modeling, and a full go-to-market strategy.
+We developed a sustainability-driven business model and created a prototype to simulate user experience, supported by detailed market analysis and strategic launch planning.  
 
-The focus is not only on building a product prototype but also ensuring its market readiness through competitive analysis, pricing strategy, and a well-defined launch plan.
+---
 
-🚀 Key Project Components
+## 📌 Project Overview  
+- Conducted **market research & competitor analysis**  
+- Designed the **Joyntway product prototype**  
+- Developed **features and functionality roadmap**  
+- Built a **go-to-market strategy** for product launch  
+- Created a **ride-sharing prototype (PDF + mockups)**  
+- Delivered a **final report with insights & recommendations**  
 
-Market Analysis – Studied industry trends, customer segments, and competitor benchmarks
+---
 
-Consumer Research – Gathered insights into user needs, preferences, and challenges with existing services
+## 📊 Dashboard & Prototype Previews  
 
-Product Prototype – Designed the Joyntway ride-sharing app concept
+### Key Features  
+![Joyntway Features](Features_Joyntway.png)
 
-Business Model – Defined revenue streams, cost structure, and value proposition
+### Prototype Screens  
+![Joyntway Prototype](Prototype_joyntway.png)  
 
-Go-to-Market Strategy – Created a roadmap for launch, including marketing channels, partnerships, and rollout phases
+---
 
-Future Scope – Identified opportunities for scaling and sustainable growth
+## 📂 Project Files  
+- 📄 [Final Report – Joyntway](./Final%20Report%20Joyntway.docx)  
+- 📑 [Prototype Design (PDF)](./Joyntway-Ride%20sharing%20Prototype%20.pdf)  
+- 🖼️ [Features Overview (PNG)](./Features_Joyntway.png)  
+- 🖼️ [Prototype Mockup (PNG)](./Prototype_joyntway.png)  
 
-📊 Deliverables
+---
 
-Final Report (PDF) – Detailed research, analysis, and strategy documentation
+## 🚀 Go-to-Market Strategy  
+- Defined **target customer segments**  
+- Developed **pricing and adoption strategies**  
+- Planned **launch marketing campaigns**  
+- Evaluated **risks & mitigation strategies**  
 
-Prototype (Images / PDF) – Screenshots of product design
+---
 
-Presentation (Optional if you have slides) – Summarized findings and strategy
+## 👥 Team Contribution  
+This was a collaborative project focused on **innovation, design thinking, and market-driven product development**.  
 
-🌍 Impact
+---
 
-Joyntway is designed to:
+## 🔗 Related Links  
+- Prototype (PDF) included above  
+- Full project report included in repo  
 
-Reduce urban congestion
+---
 
-Offer cost-effective transport options
+✨ *This repository demonstrates product development skills across research, design, and strategy, making it a strong portfolio example.*  
 
-Provide a sustainable alternative to traditional ride-sharing platforms
-
-📸 Prototype & Visuals
-
-(Add the prototype images/screenshots here – you can upload them into your repo’s /images folder and link like this:)
-
-![Prototype Screenshot](images/prototype1.png)
-![Prototype Screenshot](images/prototype2.png)
-
-🔗 Links
-
-📄 Final Report PDF
-
-🌐 Tableau/Other Visualization Links (if any)
-
-🎯 Project Presentation (optional)
-
-👩‍💻 Team Contributions
-
-Conducted market research and competitive analysis
-
-Designed product prototype and UX concept
-
-Built business model and financial forecast
-
-Created go-to-market and launch strategy
