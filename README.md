@@ -1,4 +1,5 @@
 Joyntway – Ride-Sharing Product Development & Go-to-Market Strategy
+
 📌 Project Overview
 
 This project presents the end-to-end development of Joyntway, a ride-sharing platform aimed at providing affordable, sustainable, and convenient urban mobility. The work spans from market research and customer insights to prototype design, business modeling, and a full go-to-market strategy.
